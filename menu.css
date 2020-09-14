@@ -8,8 +8,8 @@ body{
 	font-family: 'poppins',sans-serif;
 	background-color:  pink;
 }
-.wrapper{
-	width: 1200px;
+#wrapper{
+	width: 1000px;
 	margin: 100px auto;
 	justify-content: space-between;
 }
@@ -93,5 +93,19 @@ body{
 	color: #ff7720;
 	border:1px solid #ddd;
 }
-
+@media screen and (max-width:1020px){
+#wrapper{
+ width: 800px;
+}
+}
+@media screen and (max-width:810px){
+#wrapper{
+ width: 500px;
+}
+}
+@media screen and (max-width:510px){
+#wrapper{
+ width: auto;
+}
+}
 

@@ -1,10 +1,11 @@
+
 .login{
     background-image: url(1.jpg);
 	background-position: center center;
 	-webkit-background-size:cover;
 	background-size: cover;
-    height: 100vh;
-    margin-top: 5cm;
+    height: 110vh;
+    margin-top: 2cm;
     margin-bottom: 2cm;
     margin-left: 12cm;
     margin-right: 12cm;
@@ -20,8 +21,7 @@
     border-right: black;
     border-right-style: double;
     border-right-width: thick;
-    
-}
+    }
 h2{
     color:rgb(61, 245, 229);
 }
@@ -29,9 +29,9 @@ h1{
     color:rgb(61, 245, 229);
 }
 .signup{
-    font-size: 18px;
+    font-size: 16px;
     font-family: sans-serif;
-    -moz-user-input:18px;
+    -moz-user-input:16px;
     text-decoration-style: inherit;
     }
 .left{
