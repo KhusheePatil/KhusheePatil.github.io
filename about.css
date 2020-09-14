@@ -1,0 +1,38 @@
+body{
+	font-family: 'poppins',sans-serif;
+  	color:black;
+	
+	
+}
+b {
+	width: 1200px;
+	margin: 5px auto;
+	justify-content: space-between;
+}
+h1{
+	width: 1200px;
+	margin: 5px auto;
+	justify-content: space-between;
+
+}
+h2{
+	width: 1200px;
+	margin: 10px auto;
+	justify-content: space-between;
+
+	
+}
+img{
+	max-width: 600px;
+	margin-right: 30px;
+	border-radius: 10%;
+	border:1px solid #ddd;
+	padding: 3px;
+	transition: .10s;
+	margin-top: 2px;
+}
+@media all and (max-width: 500px){
+body{
+ color: blue;
+}
+}

@@ -1,0 +1,45 @@
+.login{
+    background-image: url(1.jpg);
+	background-position: center center;
+	-webkit-background-size:cover;
+	background-size: cover;
+    height: 100vh;
+    margin-top: 5cm;
+    margin-bottom: 2cm;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    border-top:black;
+    border-top-style: double;
+    border-top-width: thick;
+    border-bottom:black;
+    border-bottom-style: double;
+    border-bottom-width: thick;
+    border-left: black;
+    border-left-style: double;
+    border-left-width: thick;
+    border-right: black;
+    border-right-style: double;
+    border-right-width: thick;
+    
+}
+h2{
+    color:rgb(61, 245, 229);
+}
+h1{
+    color:rgb(61, 245, 229);
+}
+.signup{
+    font-size: 18px;
+    font-family: sans-serif;
+    -moz-user-input:18px;
+    text-decoration-style: inherit;
+    }
+.left{
+    text-align-last: center;    
+}
+.reg-link a:hover{
+    color:rgb(61, 245, 229);
+}
+.login-with a:hover{
+    scrollbar-highlight-color: royalblue;
+}
